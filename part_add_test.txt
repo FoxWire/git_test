@@ -1,4 +1,9 @@
+This is anther part that I would like to be a hunk.
+
 This is line one ******
 This is some text that I am adding here.
 This is line two ******
+
+This is some more text. 
+I would like this to count as one hunk.
 

@@ -1,3 +1,7 @@
 Second change
 Third change
+<<<<<<< Updated upstream
 These are some changes that I will try to stash
+=======
+These are some changes that I am trying to stash
+>>>>>>> Stashed changes

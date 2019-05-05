@@ -5,3 +5,7 @@ These are some changes that I will try to stash
 =======
 These are some changes that I am trying to stash
 >>>>>>> Stashed changes
+This is line one that I am adding here.
+This is line two that I am adding.
+This is line three that I am adding
+This is line four that I am adding

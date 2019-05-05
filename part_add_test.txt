@@ -9,3 +9,6 @@ This is line two ******
 This is some more text. 
 I would like this to count as one hunk.
 
+
+And this is some more text here.
+
